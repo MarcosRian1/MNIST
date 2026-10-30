@@ -2,18 +2,6 @@
   Previsão de classificador MNIST
 </h1>
 
-<p align="center">
-  Projeto de Machine Learning para previsão de números escritos a mão.
-</p>
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#fonte">Dataset</a> •
- <a href="#resultados">Resultados</a>
-</p>
-
----
-
 <h2 id="objetivo">🎯 Objetivo</h2>
 
 <p>
@@ -45,6 +33,3 @@ Por fim, o modelo final foi treinado e avaliado sobre o conjunto de teste. Utili
 | Métrica | Resultado |
 |---|---:|
 | Acurácia | `0.87` |
-
-<h3>👨‍💻 Autor</h3>
-<p>Marcos Rian</p>
